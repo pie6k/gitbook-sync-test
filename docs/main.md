@@ -8,7 +8,5 @@ Content added in online editor now!
 
 
 
-{% file src=".gitbook/assets/kitten.png" caption="Kitten" %}
-
-
+![](.gitbook/assets/kitten.png)
 
