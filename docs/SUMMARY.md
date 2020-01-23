@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Initial page](Main.md)
-* [Bar](Bar.md)
-* [Foo](Foo.md)
+* [Bar](bar.md)
+* [Foo](foo.md)
 * [Main](main.md)
 
